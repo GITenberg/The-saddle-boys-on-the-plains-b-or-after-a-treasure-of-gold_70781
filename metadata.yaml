@@ -1,0 +1,26 @@
+_repo: The-saddle-boys-on-the-plains-b-or-after-a-treasure-of-gold_70781
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carson, Captain James
+    gutenberg_agent_id: '55923'
+    url: http://www.gutenberg.org/2009/agents/55923
+description: ''
+gutenberg_issued: '2023-05-16'
+identifiers:
+  gutenberg: '70781'
+language: en
+pgterms:marc905: 20220621183556carson
+pgterms:marc906: '1913'
+pgterms:marc907: us
+production_note: Bob Taylor, David Edwards and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bCupples & Leon Company, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The saddle boys on the plains : $b or, after a treasure of gold'
+url: http://www.gutenberg.org/ebooks/70781
